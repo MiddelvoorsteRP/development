@@ -20,4 +20,5 @@ jobs:
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
          ## message: "Nieuwe commit aan **MV-APV**.\nDiff: {{ github.context.payload.compare }}"
-          embed: '{"description":"{ commit.amount } nieuwe commits aan origin/master","color":2424576} {"title":"{{ commit.title }}","description":"{{ commit.description }}","url":"{{ commit.url }}","author":{"name":"{{ commit.author.name }}","icon_url":"https://github.com/{{ commit.author.username ?? commit.author.name }}.png"}}'
+          embed: '{"title":"Middelvoorste","description":"{{ commit.amount }} nieuwe commits aan origin/master","color":2424576},{"title":"{{ commit.title }}","description":"{{ commit.description }}","url":"{{ commit.url }}","author":{"name":"{{ commit.author.name }}","icon_url":"https://github.com/{{ commit.author.username ?? commit.author.name }}.png"}}
+'
