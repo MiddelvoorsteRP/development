@@ -20,4 +20,4 @@ jobs:
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           message: "Nieuwe commit(s) aan **origin/main**.\nDiff: {{ github.context.payload.compare }}"
-          embed: '{"title":"{{ commit.title }}","description":"{{ commit.description }}","url":"{{ commit.url }}","author":{"name":"{{ commit.author.name }}","icon_url":"https://github.com/{{ commit.author.username ?? commit.author.name }}.jng"}}'
+          embed: '{"title":"{{ commit.title }}","description":"{{ commit.description }}","url":"{{ commit.url }}","author":{"name":"{{ commit.author.name }}","icon_url":"https://github.com/{{ commit.author.username ?? commit.author.name }}.png"}}'
