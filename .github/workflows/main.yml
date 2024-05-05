@@ -1,4 +1,7 @@
 on: [push]
+  issues:
+    types: [opened, edited, milestoned]
+    
 
 jobs:
   disord_test_message:
