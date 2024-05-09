@@ -10,7 +10,7 @@ developers in je issue steken waardeert en respecteert. En hiervoor zullen wij
 als developers ook dit respect terug geven.
 
 
-## Gebruik maken van de issue tracker
+## Gebruik maken van de issue tracker.
 
 Het gebruikmaken van de issue tracker voor [bug reports](#bugs) en
 [feature requests](#features) heeft bij ons de voorkeur.
