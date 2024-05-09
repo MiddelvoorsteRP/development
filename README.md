@@ -1,5 +1,5 @@
 # development
-Alle issues worden hier geplaatst
+Alle issues worden hier geplaatst!
 
 # Contributie
 
