@@ -17,7 +17,7 @@ Het gebruikmaken van de issue tracker voor [bug reports](#bugs) en
 The issue tracker is the preferred channel for [bug reports](#bugs) and
 [features requests](#features), but please respect the following restrictions:
 
-* Issues zijn **niet** bedoelt voor persoonlijke hulp (Gebruik hiervoor de support discord).
+* Issues zijn **niet** bedoelt voor persoonlijke hulp (Gebruik hiervoor de support discord)
 
 * Wees respectvol in issues
 
